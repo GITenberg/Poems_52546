@@ -1,0 +1,28 @@
+_repo: Poems_52546
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shastid, Thomas Hall
+    aliases:
+    - Shastid, Thomas H. (Thomas Hall)
+    - Shastid, T. H. (Thomas Hall)
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '46918'
+    url: http://www.gutenberg.org/2009/agents/46918
+description: ''
+gutenberg_issued: '2016-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52546'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 19th century'
+- !lcsh 'Children''s writings, American'
+- GITenberg
+title: Poems
+url: http://www.gutenberg.org/ebooks/52546
